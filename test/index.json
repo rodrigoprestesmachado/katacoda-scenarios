@@ -18,7 +18,8 @@
     }
   },
   "environment": {
-    "showide": true
+    "showide": true,
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
     "imageid": "vscode"
