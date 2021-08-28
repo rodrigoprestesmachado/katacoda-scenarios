@@ -2,7 +2,7 @@
   "title": "test",
   "description": "test",
   "difficulty": "Beginner",
-  "time": "15 minutos",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
@@ -17,8 +17,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "vscode"
   }
 }
