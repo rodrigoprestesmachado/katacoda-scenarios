@@ -2,7 +2,7 @@
   "title": "test",
   "description": "test",
   "difficulty": "Beginner",
-  "time": "15 minutes",
+  "time": "15 minutos",
   "details": {
     "steps": [
       {
@@ -18,7 +18,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+     "uilayout": "vscode-terminal-split"
   },
   "backend": {
     "imageid": "vscode"
