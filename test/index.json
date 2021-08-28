@@ -18,10 +18,9 @@
     }
   },
   "environment": {
-    "showide": true,
-    "uilayout": "terminal"
+    "showide": true
   },
   "backend": {
-    "imageid": "vscode"
+    "imageid": "ubuntu:2004"
   }
 }
