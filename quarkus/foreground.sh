@@ -1,10 +1,7 @@
 #!/bin/bash
 
-echo "Waiting to install Quarkus environment";
-FEEDBACK=".."
-while [ ! -f /opt/.backgroundfinished ] ; do
-    $FEEDBACK = $FEEDBACK + ".."
-    echo $FEEDBACK
-    sleep 1;
+echo "Waiting to complete";
+while [ ! -f /opt/.backgroundfinished ] ;
+do sleep 2;
 done;
-echo "done"
+echo "Done"
