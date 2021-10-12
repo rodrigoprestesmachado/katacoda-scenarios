@@ -1,1 +1,1 @@
-# VSCode and Quarkus Playgroung
+# VS Code and Quarkus Playgroung
