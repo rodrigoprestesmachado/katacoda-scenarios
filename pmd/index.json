@@ -1,8 +1,8 @@
 {
-  "title": "Quarkus e VSCode Playgorund",
-  "description": "Quarkus e VSCode Playgorund",
-  "difficulty": "Beginner",
-  "time": "5 minuts",
+  "title": "Análise estática com PMD no projeto TPACK",
+  "description": "Ambiente para executar o PMD no projeto TPACK",
+  "difficulty": "Iniciante",
+  "time": "5 minutos",
   "details": {
     "steps": [
       {
@@ -19,8 +19,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "showide": true
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu:2004"
